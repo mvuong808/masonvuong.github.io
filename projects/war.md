@@ -4,7 +4,7 @@ type: project
 image: img/cotton/cotton-square.png
 title: "War"
 date: 2022
-published: false
+published: true
 labels:
   - Repl
   - Java
