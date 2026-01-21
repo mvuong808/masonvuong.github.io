@@ -9,6 +9,7 @@ labels:
   - Website
   - HTML
   - CSS
+  - Javascript
 summary: "A website I made about Technoblade, a minecraft YouTuber, in high school for computer science class."
 ---
 
