@@ -14,7 +14,7 @@ summary: "A website I made about Technoblade, a minecraft YouTuber, in high scho
 ---
 
 
-In my first computer science class in high school, I made a website about my favorite YouTuber at the time, Technoblade. My website had information about him, his achievements, history in tournaments, and a short trivia quiz about him. The website is super outdated, so there is a bunch of images and stuff missing. I used repl.it, so the link to the websites don't stay up. Below are images of the website.
+In my first computer science class in high school, I made a website about my favorite YouTuber at the time, Technoblade. My website had information about him, his achievements, history in tournaments, and a short trivia quiz about him. The website is super outdated, so there is a bunch of images and stuff missing. I used repl.it to make this but the link to the websites don't stay up. Below are images of the website. I enjoyed making this project as I learned how to use CSS to change the style of the website, as well as how the layout looks. 
 
 <img class="img-fluid" src="../img/technoblade/page1.png">
 <img class="img-fluid" src="../img/technoblade/page2.png">
